@@ -56,51 +56,39 @@
                                 <subviews>
                                     <view tag="1" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Hr2-3c-e8p" userLabel="tileOne" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="8" y="13" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="2" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9Uh-oM-Skl" userLabel="tileTwo" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="131" y="13" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="3" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eVF-cp-MnK" userLabel="tileThree" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="254" y="13" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="4" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yyj-bm-KQn" userLabel="tileFour" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="8" y="158.5" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Iwc-xH-pZp" userLabel="tileFive" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="131" y="158.5" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="6" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iFB-2h-9Xt" userLabel="tileSix" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="254" y="158.5" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="7" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4gL-ET-8fD" userLabel="tileSeven" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="8" y="304" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="8" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cZs-uC-I8a" userLabel="tileEight" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="131" y="304" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="9" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cQB-V7-iHS" userLabel="tileNine" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="254" y="304" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="10" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BuG-br-Mu1" userLabel="tileTen" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="8" y="449.5" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="11" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RjZ-Dw-e9q" userLabel="tileEleven" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="131" y="449.5" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                     <view tag="12" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qg4-Nl-2HK" userLabel="tileTwelve" customClass="TileView" customModule="Assignment1" customModuleProvider="target">
                                         <rect key="frame" x="254" y="449.5" width="118" height="140.5"/>
-                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     </view>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
