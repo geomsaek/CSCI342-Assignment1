@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 class TileView : UIView {
-
+    
     var img : UIImage?
     var imgView : UIImageView
     var tileDelegate : TileViewDelegate?
@@ -65,7 +65,6 @@ class TileView : UIView {
         
         let tapEvent = UITapGestureRecognizer(target: self, action: #selector(TileView.userAction))
         self.addGestureRecognizer(tapEvent)
-    
     }
     
     func userAction() {
@@ -83,7 +82,6 @@ class TileView : UIView {
         }
     }
     
-    // reveal function
     func displayTile(){
         
         let temp: UIImage? = img
@@ -107,11 +105,9 @@ class TileView : UIView {
         alterOpacity()
     }
     
-    // additional function to handle opacity
     func alterOpacity(){
         UIView.animateWithDuration(1,animations: { self.imgView.alpha = 1.0 })
     }
-
 }
 
 protocol TileViewDelegate {
